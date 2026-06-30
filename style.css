@@ -11,7 +11,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "Outfit", cursive, sans-serif;
+    font-family: "Outfit", sans-serif;
     font-size: 1rem;
     color: hsl(30, 10%, 34%);
     background-color: rgb(243, 229, 216);
