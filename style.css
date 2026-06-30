@@ -95,7 +95,7 @@ table tr:last-child td{
         border-radius: 1rem;
         width: min(70vw, 740px);
     }
-    image{
+    img{
         border-radius: 1rem;
     }
 }
