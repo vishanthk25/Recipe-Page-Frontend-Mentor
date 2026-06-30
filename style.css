@@ -14,7 +14,7 @@ body{
     font-family: "Outfit", cursive, sans-serif;
     font-size: 1rem;
     color: hsl(30, 10%, 34%);
-    background-color: hsl(330, 100%, 98%);
+    background-color: rgb(243, 229, 216);
 }
 img{
     width:100%;
@@ -44,7 +44,7 @@ ul{
 ol{
     padding-left: 1.5rem;
 }
-h5{
+h3{
     margin-bottom: 7px;
     color: hsl(332, 51%, 32%);
     font-weight: 600;
